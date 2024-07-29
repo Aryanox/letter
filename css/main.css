@@ -1,0 +1,36 @@
+.aletter {
+  width: auto;
+  height: auto;
+  /* border: 1px solid grey; */
+  margin: 0 auto;
+  padding: 50px;
+  font-family: 'Nanum Pen Script';
+  font-size: 20px;
+  color: #000030;
+  line-height: 20px;
+  text-align: justify;
+  background-image: url(http://www.publicdomainpictures.net/pictures/40000/velka/paper-texture-1359509235aJV.jpg);
+}
+
+.tomy {
+  width: auto;
+  height: auto;
+  margin-bottom: auto;
+  margin-top: auto;
+  padding: 25px 10px 25px 10px;
+  color: #000030;
+  font-family: 'Indie Flower';
+  font-size: 20px;
+  transform: rotate(-1deg);
+}
+.tomy1 {
+  width: auto;
+  height: auto;
+  margin-bottom: auto;
+  margin-top: auto;
+  padding: 10px;
+  color: #000030;
+  font-family: 'Indie Flower';
+  font-size: 20px;
+  transform: rotate(-2deg);
+}
