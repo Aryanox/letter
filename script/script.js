@@ -14,6 +14,6 @@ document.querySelector('.heart').addEventListener('click', function() {
 		heart.classList.add('zoom');
 	}, 2000);
 	setTimeout(function() {
-		window.location.href = 'https://devxoshakya.github.io/letter/letter.html'; // Replace with your target URL
+		window.location.href = 'https://Aryanox.github.io/letter/letter.html'; // Replace with your target URL
 	}, 2500);
 });
